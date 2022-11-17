@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Laravel Livewire CRUD - ItSolutionStuff.com</title>
+    <title>Laravel Livewire CRUD</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     @livewireStyles
 </head>

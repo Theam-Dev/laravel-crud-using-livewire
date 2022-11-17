@@ -13,3 +13,4 @@
     <button wire:click.prevent="update()" class="btn btn-info">Update</button>
     <button wire:click.prevent="cancel()" class="btn btn-danger">Cancel</button>
 </form>
+

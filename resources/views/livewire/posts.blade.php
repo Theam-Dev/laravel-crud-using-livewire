@@ -7,9 +7,9 @@
             </div>
             @endif
             @if($updateMode)
-            @include('livewire.update')
+            	@include('livewire.update')
             @else
-            @include('livewire.create')
+            	@include('livewire.create')
             @endif
         </div>
         <div class="col-md-6">
@@ -39,3 +39,4 @@
         </div>
     </div>
 </div>
+
